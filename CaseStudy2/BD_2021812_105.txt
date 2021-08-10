@@ -1,0 +1,10 @@
+PNR :BD_2021812_103Train Number : 1001
+Train Name : Shatabdi Express
+From : Bangalore
+To : Delhi
+Travel Date : 2021-08-12
+Passengers :
+Name 	 Age 	 Gender	Fare
+Mrunal 	 22 	 F	1875
+Suyog 	 19 	 M	2500
+Total Price :  4375.0
